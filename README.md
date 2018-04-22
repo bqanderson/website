@@ -12,3 +12,5 @@ After finishing [*Learn Enough™ Git to Be Dangerous*](http://learnenough.com/g
   * Back up data
   * Share your work with others
   * Collaborate with programmers and other users of Git
+
+For more information see the [official Git documentation](https://git-scm.com).
